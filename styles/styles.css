@@ -5,20 +5,61 @@
 }
 
 
+.root{
+    display: flex;
+    
+}
+
+
+#id-1{
+    text-align:left ;
+}
+
+#id-2{
+    text-align:center ;
+}
+
+#id-3{
+    text-align:right ;
+}
+
+/* 
 h1 {
 
     color: brown;
+
+} */
+/* 
+
+.header-container{
+
+    text-align: center;
+} */
+
+  h1{
+text-align: left;
+
+}
+
+
+  h2{
+text-align:center;
+
+}
+
+ h3{
+text-align: right;
 
 }
 
  .image-container{
 
     background-color: aqua;
-    height: 100px;
-    width: 200px;
-    text-align: center;
+    height: auto;
+    width: auto;
+    text-align:left;
  
-    align-items: center;
+    /* align-items: center; */
     display: flex;
     flex-direction:row;
 

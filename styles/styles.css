@@ -4,23 +4,26 @@
      
 }
 
-
+/* 
 .root{
     display: flex;
     
-}
+} */
 
 
 #id-1{
     text-align:left ;
+    justify-content: center;
 }
 
 #id-2{
     text-align:center ;
+    justify-content: center;
 }
 
 #id-3{
     text-align:right ;
+    justify-content: center;
 }
 
 /* 
